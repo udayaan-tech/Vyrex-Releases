@@ -4,12 +4,12 @@
         <title>Vyrex Updates</title>
         <item>
             <title>Vyrex Update 1.0.0</title>
-            <pubDate>Fri, 31 Jul 2026 17:10:51 +05:30</pubDate>
-            <sparkle:releaseNotesLink>https://github.com/udayaan-tech/Vyrex-Releases/releases/tag/v1.0.3</sparkle:releaseNotesLink>
-            <sparkle:version>1.0.3</sparkle:version>
+            <pubDate>Fri, 31 Jul 2026 17:17:59 +05:30</pubDate>
+            <sparkle:releaseNotesLink>https://github.com/udayaan-tech/Vyrex-Releases/releases/tag/v1.0.4</sparkle:releaseNotesLink>
+            <sparkle:version>1.0.4</sparkle:version>
             <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
-            <enclosure url="https://github.com/udayaan-tech/Vyrex-Releases/releases/download/v1.0.3/Vyrex_Installer.exe"
-                       sparkle:version="1.0.3"
+            <enclosure url="https://github.com/udayaan-tech/Vyrex-Releases/releases/download/v1.0.4/Vyrex_Installer.exe"
+                       sparkle:version="1.0.4"
                        sparkle:os="windows"
                        type="application/octet-stream" />
         </item>
